@@ -8475,19 +8475,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\tu7hnsxs1\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Asp.NetTask1\\A.NTask1\\A.NTask1\\A.NTask1.csproj",
+      "projectUniqueName": "C:\\Users\\tu7hnsxs1\\Desktop\\ASP.NETTask1\\A.NTask1\\A.NTask1\\A.NTask1.csproj",
       "projectName": "A.NTask1",
-      "projectPath": "C:\\Users\\HP\\Desktop\\Asp.NetTask1\\A.NTask1\\A.NTask1\\A.NTask1.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\Asp.NetTask1\\A.NTask1\\A.NTask1\\obj\\",
+      "projectPath": "C:\\Users\\tu7hnsxs1\\Desktop\\ASP.NETTask1\\A.NTask1\\A.NTask1\\A.NTask1.csproj",
+      "packagesPath": "C:\\Users\\tu7hnsxs1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tu7hnsxs1\\Desktop\\ASP.NETTask1\\A.NTask1\\A.NTask1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tu7hnsxs1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8550,7 +8555,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

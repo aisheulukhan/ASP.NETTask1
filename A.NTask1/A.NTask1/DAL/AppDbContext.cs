@@ -13,5 +13,6 @@ namespace A.NTask1.DAL
         {
         }
         public DbSet<Slider> Sliders { get; set; }
+
     }
 }
